@@ -1,0 +1,13 @@
+postgres://wiwcjzyz:favK9_1YdVu1CFWwECXdCIEwf6xzVIWg@john.db.elephantsql.com/wiwcjzyz
+
+favK9_1YdVu1CFWwECXdCIEwf6xzVIWg
+
+echo "# springbootsample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/arkashankar/springsample.git
+git push -u origin main
+
+https://github.com/martinupset/smartbanck-react
